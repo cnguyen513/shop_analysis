@@ -1,0 +1,5 @@
+# Ignore shop data
+shop_data_2021.csv
+
+# Ignore virtual environment
+.venv
