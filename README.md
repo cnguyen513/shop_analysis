@@ -4,3 +4,4 @@ Worked with the owner of a Barber Shop to analyze a year's worth of business dat
 Some conclusions we made based of this year's dataset was that Friday and Saturdays tend to be the busiest, quantity of customers is relatively consistent on a month by month basis depending on how many days in the month there were, and that revenue increased during the summer reaching a peak in August.
 
 You can find the dashboard of the barber shop analysis [here](https://public.tableau.com/views/ShopDashboard2021/ShopDashboard?:language=en-US&:display_count=n&:origin=viz_share_link).
+![Shop Dashboard](assets/img/shop_dashboard.png)
